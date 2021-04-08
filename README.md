@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danfulls
-- 👀 I’m interested in most things
-- 🌱 I’m currently learning about computers
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in finance
+- 🌱 I’m currently learning about computer science basics 
+- 💞️ I’m looking to collaborate on anything that helps make the world a better place
 
 <!---
 danfulls/danfulls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
