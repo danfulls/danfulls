@@ -1,6 +1,4 @@
-Hi, I’m @danfulls
-I’m very new to all this 
-I’m currently learning computer science basics 
+Hi, I’m @danfulls 
 I’m looking to collaborate on anything that helps make the world a better place
 
 <!---
